@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ExpenseBackend\ExpenseBackend.csproj" />
     <ProjectReference Include="..\SpendSmart\ExpenseBackend.csproj" />
   </ItemGroup>
 

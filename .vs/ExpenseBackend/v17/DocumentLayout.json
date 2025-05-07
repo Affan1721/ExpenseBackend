@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2F0988C-936D-9D1C-D861-4CED06D441F3}|ExpenseBackend\\ExpenseBackend.csproj|c:\\users\\ak_8\\source\\repos\\expensebackend\\expensebackend\\data\\expensebackenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2F0988C-936D-9D1C-D861-4CED06D441F3}|ExpenseBackend\\ExpenseBackend.csproj|solutionrelative:expensebackend\\data\\expensebackenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2F0988C-936D-9D1C-D861-4CED06D441F3}|ExpenseBackend\\ExpenseBackend.csproj|c:\\users\\ak_8\\source\\repos\\expensebackend\\expensebackend\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2F0988C-936D-9D1C-D861-4CED06D441F3}|ExpenseBackend\\ExpenseBackend.csproj|solutionrelative:expensebackend\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2F0988C-936D-9D1C-D861-4CED06D441F3}|ExpenseBackend\\ExpenseBackend.csproj|c:\\users\\ak_8\\source\\repos\\expensebackend\\expensebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2F0988C-936D-9D1C-D861-4CED06D441F3}|ExpenseBackend\\ExpenseBackend.csproj|solutionrelative:expensebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|c:\\users\\ak_8\\source\\repos\\expensebackend\\testproject1\\controllers\\expensecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\controllers\\expensecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|c:\\users\\ak_8\\source\\repos\\expensebackend\\testproject1\\services\\expenseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\services\\expenseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|c:\\users\\ak_8\\source\\repos\\expensebackend\\testproject1\\repositories\\expenserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F84B464-D2A2-BADB-55FE-4525AFA1BDD6}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\repositories\\expenserepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F0988C-936D-9D1C-D861-4CED06D441F3}|ExpenseBackend\\ExpenseBackend.csproj|c:\\users\\ak_8\\source\\repos\\expensebackend\\expensebackend\\data\\expensebackenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F0988C-936D-9D1C-D861-4CED06D441F3}|ExpenseBackend\\ExpenseBackend.csproj|solutionrelative:expensebackend\\data\\expensebackenddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ExpenseRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\Repositories\\ExpenseRepositoryTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Repositories\\ExpenseRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\Repositories\\ExpenseRepositoryTests.cs",
+              "RelativeToolTip": "TestProject1\\Repositories\\ExpenseRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:22:16.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\Controllers\\ExpenseControllerTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Controllers\\ExpenseControllerTests.cs",
+              "ToolTip": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\Controllers\\ExpenseControllerTests.cs",
+              "RelativeToolTip": "TestProject1\\Controllers\\ExpenseControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:21:20.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ExpenseBackendDBContext.cs",
               "DocumentMoniker": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\ExpenseBackend\\Data\\ExpenseBackendDBContext.cs",
               "RelativeDocumentMoniker": "ExpenseBackend\\Data\\ExpenseBackendDBContext.cs",
@@ -39,20 +77,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ExpenseController.cs",
               "DocumentMoniker": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\ExpenseBackend\\Controllers\\ExpenseController.cs",
               "RelativeDocumentMoniker": "ExpenseBackend\\Controllers\\ExpenseController.cs",
               "ToolTip": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\ExpenseBackend\\Controllers\\ExpenseController.cs",
               "RelativeToolTip": "ExpenseBackend\\Controllers\\ExpenseController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T12:06:26.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ExpenseServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\Services\\ExpenseServiceTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Services\\ExpenseServiceTests.cs",
+              "ToolTip": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\Services\\ExpenseServiceTests.cs",
+              "RelativeToolTip": "TestProject1\\Services\\ExpenseServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:22:34.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\ExpenseBackend\\Program.cs",
               "RelativeDocumentMoniker": "ExpenseBackend\\Program.cs",

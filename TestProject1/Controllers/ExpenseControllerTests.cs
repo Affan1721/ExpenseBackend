@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Moq;
-using SpendSmart.Controllers;
-using SpendSmart.Models;
-using SpendSmart.Services;
+using ExpenseBackend.Controllers;
+using ExpenseBackend.Models;
+using ExpenseBackend.Services;
 
 public class ExpenseControllerTests
 {

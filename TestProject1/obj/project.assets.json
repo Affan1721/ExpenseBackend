@@ -8473,12 +8473,13 @@
     },
     "ExpenseBackend/1.0.0": {
       "type": "project",
-      "path": "../SpendSmart/ExpenseBackend.csproj",
-      "msbuildProject": "../SpendSmart/ExpenseBackend.csproj"
+      "path": "../ExpenseBackend/ExpenseBackend.csproj",
+      "msbuildProject": "../ExpenseBackend/ExpenseBackend.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\SpendSmart\\ExpenseBackend.csproj",
       "ExpenseBackend >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "Moq >= 4.20.72",
@@ -8494,11 +8495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AK_8\\source\\repos\\ExpenseApp\\SpendSmart\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\AK_8\\source\\repos\\ExpenseApp\\SpendSmart\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\AK_8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AK_8\\source\\repos\\ExpenseApp\\SpendSmart\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8520,8 +8521,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\AK_8\\source\\repos\\ExpenseApp\\SpendSmart\\SpendSmart\\ExpenseBackend.csproj": {
-              "projectPath": "C:\\Users\\AK_8\\source\\repos\\ExpenseApp\\SpendSmart\\SpendSmart\\ExpenseBackend.csproj"
+            "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\ExpenseBackend\\ExpenseBackend.csproj": {
+              "projectPath": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\ExpenseBackend\\ExpenseBackend.csproj"
+            },
+            "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\SpendSmart\\ExpenseBackend.csproj": {
+              "projectPath": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\SpendSmart\\ExpenseBackend.csproj"
             }
           }
         }
@@ -8582,5 +8586,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\SpendSmart\\ExpenseBackend.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\AK_8\\source\\repos\\ExpenseBackend\\SpendSmart\\ExpenseBackend.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 ﻿using Moq;
-using SpendSmart.Models;
-using SpendSmart.Repositories;
-using SpendSmart.Services;
+using ExpenseBackend.Models;
+using ExpenseBackend.Repositories;
+using ExpenseBackend.Services;
 
 public class ExpenseServiceTests
 {

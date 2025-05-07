@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Moq;
-using SpendSmart.Data;
-using SpendSmart.Models;
-using SpendSmart.Repositories;
+using ExpenseBackend.Data;
+using ExpenseBackend.Models;
+using ExpenseBackend.Repositories;
 
 
 public class ExpenseRepositoryTests
